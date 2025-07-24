@@ -1,11 +1,9 @@
-require (
-    github.com/cocmo1024/hugo-ad-modules v0.0.0
-    github.com/cocmo1024/hugo-seo-enhancer v0.0.0
-    github.com/cocmo1024/hugo-eeat-info v0.0.0
-)
+module github.com/cocmo1024/hugo-site-fxriskpro
 
-replace (
-    github.com/cocmo1024/hugo-ad-modules => ../modules/hugo-ad-modules
-    github.com/cocmo1024/hugo-seo-enhancer => ../modules/hugo-seo-enhancer
-    github.com/cocmo1024/hugo-eeat-info => ../modules/hugo-eeat-info
+go 1.21
+
+require (
+    github.com/cocmo1024/hugo-ad-modules v0.1.0
+    github.com/cocmo1024/hugo-seo-enhancer v0.1.0
+    github.com/cocmo1024/hugo-eeat-info v0.1.0
 )
