@@ -1,7 +1,7 @@
 # ========================
 # ✅ 站点基础配置
 # ========================
-baseURL: "http://www.oocxx.com/"             # 🚧 发布前请改为正式域名（需以 / 结尾）
+baseURL: "http://www.fxriskpro.com/"             # 🚧 发布前请改为正式域名（需以 / 结尾）
 title: "OOCXX"                                # 站点标题
 languageCode: "en-us"
 defaultContentLanguage: "en"
